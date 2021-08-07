@@ -1,0 +1,4 @@
+#----- Rectangle
+
+Rectangle 10,10,100,200 
+Circle  20,20,40,50 
